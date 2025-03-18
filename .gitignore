@@ -1,1 +1,25 @@
-/target/
+# Eclipse specific files
+.project
+.classpath
+.settings/
+target/
+bin/
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+release.properties
+mvnw
+mvnw.cmd
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
